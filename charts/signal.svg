@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440" role="img">
+<rect width="880" height="440" fill="#fcfcfb"/>
+<text x="24.0" y="28.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="15" fill="#0b0b0b" text-anchor="start" font-weight="600">Where the signal lives — actual win rate…</text>
+<text x="24.0" y="46.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="start">1,954 decided opportunities. Whiskers are 95% Wilson intervals. Scope, the dimension the deployed model segments on, spans only 12–16% (table in README).</text>
+<text x="80.0" y="76.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="600">…by bid size</text>
+<line x1="80.0" y1="356.0" x2="410.0" y2="356.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="360.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="80.0" y1="312.0" x2="410.0" y2="312.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="316.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">10%</text>
+<line x1="80.0" y1="268.0" x2="410.0" y2="268.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="272.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="80.0" y1="224.0" x2="410.0" y2="224.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="228.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">30%</text>
+<line x1="80.0" y1="180.0" x2="410.0" y2="180.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="184.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="80.0" y1="136.0" x2="410.0" y2="136.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="140.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="80.0" y1="92.0" x2="410.0" y2="92.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="96.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">60%</text>
+<line x1="80.0" y1="356.0" x2="410.0" y2="356.0" stroke="#c3c2b7" stroke-width="1.5"/>
+<path d="M99.25,356 L99.25,276.6 Q99.25,272.6 103.25,272.6 L139.25,272.6 Q143.25,272.6 143.25,276.6 L143.25,356 Z" fill="#2a78d6"/>
+<line x1="121.3" y1="285.6" x2="121.3" y2="257.8" stroke="#52514e" stroke-width="2"/>
+<text x="121.3" y="249.8" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">19.0%</text>
+<text x="121.3" y="374.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="middle">S</text>
+<text x="121.3" y="390.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">n=591</text>
+<path d="M181.75,356 L181.75,297.4 Q181.75,293.4 185.75,293.4 L221.75,293.4 Q225.75,293.4 225.75,297.4 L225.75,356 Z" fill="#2a78d6"/>
+<line x1="203.8" y1="304.9" x2="203.8" y2="279.7" stroke="#52514e" stroke-width="2"/>
+<text x="203.8" y="271.7" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">14.2%</text>
+<text x="203.8" y="374.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="middle">M</text>
+<text x="203.8" y="390.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">n=569</text>
+<path d="M264.25,356 L264.25,314.9 Q264.25,310.9 268.25,310.9 L304.25,310.9 Q308.25,310.9 308.25,314.9 L308.25,356 Z" fill="#2a78d6"/>
+<line x1="286.3" y1="320.9" x2="286.3" y2="298.3" stroke="#52514e" stroke-width="2"/>
+<text x="286.3" y="290.3" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">10.3%</text>
+<text x="286.3" y="374.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="middle">L</text>
+<text x="286.3" y="390.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">n=536</text>
+<path d="M346.75,356 L346.75,325.9 Q346.75,321.9 350.75,321.9 L386.75,321.9 Q390.75,321.9 390.75,325.9 L390.75,356 Z" fill="#2a78d6"/>
+<line x1="368.8" y1="333.7" x2="368.8" y2="304.7" stroke="#52514e" stroke-width="2"/>
+<text x="368.8" y="296.7" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">7.8%</text>
+<text x="368.8" y="374.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="middle">XL</text>
+<text x="368.8" y="390.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">n=258</text>
+<text x="80.0" y="426.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="start">size tiers split at fixed dollar thresholds</text>
+<text x="490.0" y="76.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="600">…by market segment</text>
+<line x1="490.0" y1="356.0" x2="820.0" y2="356.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="482.0" y="360.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">0%</text>
+<line x1="490.0" y1="312.0" x2="820.0" y2="312.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="482.0" y="316.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">10%</text>
+<line x1="490.0" y1="268.0" x2="820.0" y2="268.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="482.0" y="272.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">20%</text>
+<line x1="490.0" y1="224.0" x2="820.0" y2="224.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="482.0" y="228.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">30%</text>
+<line x1="490.0" y1="180.0" x2="820.0" y2="180.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="482.0" y="184.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">40%</text>
+<line x1="490.0" y1="136.0" x2="820.0" y2="136.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="482.0" y="140.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">50%</text>
+<line x1="490.0" y1="92.0" x2="820.0" y2="92.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="482.0" y="96.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">60%</text>
+<line x1="490.0" y1="356.0" x2="820.0" y2="356.0" stroke="#c3c2b7" stroke-width="1.5"/>
+<path d="M523,356 L523,309.2 Q523,305.2 527,305.2 L563,305.2 Q567,305.2 567,309.2 L567,356 Z" fill="#2a78d6"/>
+<line x1="545.0" y1="311.4" x2="545.0" y2="298.3" stroke="#52514e" stroke-width="2"/>
+<text x="545.0" y="290.3" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">11.5%</text>
+<text x="545.0" y="374.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="middle">commercial</text>
+<text x="545.0" y="390.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">n=1775</text>
+<path d="M633,356 L633,205.0 Q633,201.0 637,201.0 L673,201.0 Q677,201.0 677,205.0 L677,356 Z" fill="#2a78d6"/>
+<line x1="655.0" y1="231.8" x2="655.0" y2="167.2" stroke="#52514e" stroke-width="2"/>
+<text x="655.0" y="159.2" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">35.2%</text>
+<text x="655.0" y="374.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="middle">single-family</text>
+<text x="655.0" y="390.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">n=159</text>
+<path d="M743,356 L743,221.1 Q743,217.1 747,217.1 L783,217.1 Q787,217.1 787,221.1 L787,356 Z" fill="#2a78d6"/>
+<line x1="765.0" y1="288.4" x2="765.0" y2="118.4" stroke="#52514e" stroke-width="2"/>
+<text x="765.0" y="110.4" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="11.5" fill="#0b0b0b" text-anchor="middle" font-weight="600" style="font-variant-numeric: tabular-nums">31.6%</text>
+<text x="765.0" y="374.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="12" fill="#52514e" text-anchor="middle">material-only</text>
+<text x="765.0" y="390.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">n=19</text>
+<text x="490.0" y="426.0" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="10.5" fill="#898781" text-anchor="start">the service segment (n=1) is omitted</text>
+</svg>
