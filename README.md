@@ -160,4 +160,4 @@ No dependencies; Node ≥ 18. `data/bids.csv` is the anonymized opportunity-leve
 
 ---
 
-*Part of a set of case studies on a production construction ERP: [the system itself](https://github.com/brandongourley/construction-erp-case-study) and [a customer-grading analysis of the same bid ledger](https://github.com/brandongourley/gc-priority-analysis).*
+*Part of a set of case studies on a production construction ERP: [the system itself](https://github.com/brandongourley/construction-erp-case-study), [a customer-grading analysis of the same bid ledger](https://github.com/brandongourley/gc-priority-analysis), and [the overhead-per-bid economics of the same pipeline](https://github.com/brandongourley/overhead-per-bid-analysis).*
