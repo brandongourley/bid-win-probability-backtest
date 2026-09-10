@@ -1,0 +1,5 @@
+
+# dependencies & secrets (added 2026-09-10)
+node_modules/
+.env
+.env.*
